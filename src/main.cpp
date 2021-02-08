@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#define VERSION 2
+#define VERSION 1 // master
 // nouvelle tentative GITHUB test22 ll
 #define BLINKTIME 300
 
